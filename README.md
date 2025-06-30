@@ -2,11 +2,13 @@
 
 **Sales & Product Performance Dashboard – Excel-Based Business Analysis**
   **Project Overview**
+  
 This project is a comprehensive Excel dashboard built to analyze monthly and product-wise sales performance using real business transaction data. The aim was to create an interactive tool that allows users to filter, slicers, explores and derive meaningful insights from sales data.
 
 The dashboard helps stakeholders understand not just “how much was sold,” but also “which products performed well,” “when profitability peaked,” and “how customers prefer to pay.” It combines raw transactional data with calculated insights, enabling better business decisions and performance tracking.
 
    **Why This Data**
+   
 The dataset reflects real-world sales activity across different months, products, sale types (retail/wholesale), and payment modes. It includes key financial metrics like Sales, Profit, and Profit %, which are crucial for:
 
 Tracking revenue growth and decline over time
@@ -15,6 +17,7 @@ Understanding customer payment preferences
 Spotting seasonal patterns and market opportunities
 
  **What This Dashboard Provides**
+ 
 The final Excel dashboard is a fully interactive tool that allows users to:
 Slicers results by Month, Year, Sale Type, and Payment Mode
 Visualize trends in Monthly Sales, Profit, and Profit Margin
