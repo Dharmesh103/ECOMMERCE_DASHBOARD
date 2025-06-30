@@ -32,7 +32,8 @@ Retail sales made up the majority of transactions, indicating that end customers
 UPI and Cash were the dominant payment methods — useful for planning payment infrastructure.
 A small subset of products drove most of the revenue, which aligns with the 80/20 rule (Pareto Principle).
 
-🔹**How Business Can Use It**
+**How Business Can Use It**
+
 This dashboard isn't just a report — it's a decision-making tool. It gives business managers and analysts the ability to:
 Quickly spot underperforming months or products
 Focus on high-margin opportunities
@@ -40,7 +41,8 @@ Understand market behavior over time
 Support sales strategy with data,
 Every visual and filter is designed to support real questions teams face every quarter or campaign.
 
-🔹 **Future Potential** 
+ **Future Potential** 
+
 While the current version is fully built in Excel, the dashboard lays a solid foundation for deeper analytics. Here’s how it can evolve:
 **Sales Forecasting**: Using historical trends to predict future months
 **Profit Margin Simulation**: Estimate how pricing changes affect profitability
